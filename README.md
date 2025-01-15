@@ -169,4 +169,4 @@ TEST_CONFIGS = [
 
 ## **Acknowledgments**
 
-This project was developed for the "Intro to Computer Networks 2024 Hackathon." It adheres to the assignment guidelines and ensures full compatibility with other teams' implementations.
+This project was developed for the "Intro to Computer Networks 2024 Hackathon." It adheres to the assignment guidelines.
